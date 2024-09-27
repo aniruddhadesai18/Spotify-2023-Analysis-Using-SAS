@@ -2,8 +2,6 @@
 
 This project analyzes the Spotify 2023 dataset to uncover trends in music streaming. It highlights the top streamed tracks and artists, compares the performance of solo versus collaborative tracks, and examines monthly release patterns. By exploring these insights, the project aims to provide a better understanding of listener preferences and the dynamics of the music industry.
 
-Here’s a structured outline for your README file on GitHub, detailing the steps for using your project:
-
 Steps to Run the Project
 
 Step 1: Download the Raw Data File
