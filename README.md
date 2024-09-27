@@ -34,6 +34,8 @@ Step 6: View the Results
   you can change it as per your requirement.
 
 
-If you encounter any issues or have questions regarding the project, please don't hesitate to reach out. You can contact me at aniruddhadesai18@gmail.com, and I'll be happy to assist you.  
+If you encounter any issues or have questions regarding the project, please don't hesitate to reach out. You can contact me, and I'll be happy to assist you.  
 
-  
+Linkedin = https://www.linkedin.com/in/aniruddha-desai-028599263/
+Github = https://github.com/aniruddhadesai18
+Email = aniruddhadesai18@gmail.com
